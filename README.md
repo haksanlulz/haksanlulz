@@ -1,16 +1,12 @@
 # Abishai James
 
-IT and infrastructure since 2005, New York. I build small, well-tested
-services and write the documentation that makes them usable by someone
-who is not me.
+IT and infrastructure since 2005, New York. I build small, well tested services and write the docs so somebody else can run them.
 
-I build with AI assistance and I do not hide it. I decide what gets built,
-I read what ships, and I am the one who answers when it breaks.
+I build with AI tools and say so. I read everything before it ships and it's my name on it when it breaks.
 
 ### Civic data servers
 
-MCP servers that let an LLM client query public data directly. Built for
-tenant organizers, legal aid, and people representing themselves.
+MCP servers that let an LLM client read public records. For tenant organizers, legal aid, and people representing themselves.
 
 | | |
 |---|---|
@@ -21,8 +17,8 @@ tenant organizers, legal aid, and people representing themselves.
 
 ### Other work
 
-**[GUDBUS](https://github.com/haksanlulz/GUDBUS)** · a GURPS 4e Discord service running in production for a live community. ~21K lines of application code, 3,154 passing tests, 106 commands, test-gated CI, schema migrations behind a startup gate that refuses to launch against a stale database.
+**[GUDBUS](https://github.com/haksanlulz/GUDBUS)** · a GURPS 4e Discord service running in production for a live community. ~21K lines of application code, 3,154 passing tests, 106 commands, test gated CI, and a startup check that won't boot against a stale database schema.
 
-**[label-assay](https://github.com/haksanlulz/label-assay)** · alcohol label compliance checked against TTB 27 CFR requirements, with a regulation citation on every finding. [Live demo](https://haksanlulz-label-assay.hf.space).
+**[label-assay](https://github.com/haksanlulz/label-assay)** · checks alcohol labels against TTB 27 CFR and cites the regulation on every finding. [Live demo](https://haksanlulz-label-assay.hf.space).
 
-**[mcp-chat](https://github.com/haksanlulz/mcp-chat)** · a testbed for driving MCP servers the way a model does — it found three defects in the civic servers that their suites had not.
+**[mcp-chat](https://github.com/haksanlulz/mcp-chat)** · a testbed that drives MCP servers with a real model in the loop. Found three bugs in the civic servers that their test suites missed.
