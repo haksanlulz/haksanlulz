@@ -21,6 +21,8 @@ tenant organizers, legal aid, and people representing themselves.
 
 ### Other work
 
-**[GUDBUS](https://github.com/haksanlulz/GUDBUS)** · a GURPS 4e Discord service running in production for a live community. Roughly 50K lines, 3,154 passing tests, 106 commands, test-gated CI, schema migrations behind a startup gate that refuses to launch against a stale database.
+**[GUDBUS](https://github.com/haksanlulz/GUDBUS)** · a GURPS 4e Discord service running in production for a live community. ~21K lines of application code, 3,154 passing tests, 106 commands, test-gated CI, schema migrations behind a startup gate that refuses to launch against a stale database.
 
 **[label-assay](https://github.com/haksanlulz/label-assay)** · alcohol label compliance checked against TTB 27 CFR requirements, with a regulation citation on every finding. [Live demo](https://haksanlulz-label-assay.hf.space).
+
+**[mcp-chat](https://github.com/haksanlulz/mcp-chat)** · a testbed for driving MCP servers the way a model does — it found three defects in the civic servers that their suites had not.
