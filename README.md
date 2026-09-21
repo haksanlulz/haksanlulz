@@ -24,5 +24,3 @@ tenant organizers, legal aid, and people representing themselves.
 **[GUDBUS](https://github.com/haksanlulz/GUDBUS)** · a GURPS 4e Discord service running in production for a live community. Roughly 50K lines, 3,154 passing tests, 106 commands, test-gated CI, schema migrations behind a startup gate that refuses to launch against a stale database.
 
 **[label-assay](https://github.com/haksanlulz/label-assay)** · alcohol label compliance checked against TTB 27 CFR requirements, with a regulation citation on every finding. [Live demo](https://haksanlulz-label-assay.hf.space).
-
-**Upstream** · [PCGen #7680](https://github.com/PCGen/pcgen/pull/7680), merged. Pathfinder wealth by level was wrong at levels 10 and 13.
